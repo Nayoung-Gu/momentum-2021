@@ -113,9 +113,9 @@ img {
 #todo-list {
     list-style-type: none;
     overflow: auto;
-    height: 100px;
+    height: 130px;
     margin-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 #todo-list::-webkit-scrollbar {
